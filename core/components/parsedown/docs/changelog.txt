@@ -1,0 +1,5 @@
+Changelog for Parsedown integration into MODx Revolution.
+
+Parsedown 0.1.0
+====================================
+- MODx snippet wrapper for Parsedown

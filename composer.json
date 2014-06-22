@@ -1,0 +1,17 @@
+{
+    "name": "snilius/mod-parsedown",
+    "description": "Parsedown packaged for MODx",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Victor Häggqvist",
+            "email": "victor@snilius.com"
+        }
+    ],
+    "require": {
+      "erusev/parsedown": "1.0.1"
+    },
+    "config": {
+      "vendor-dir": "core/components/parsedown/model/vendor"
+    }
+}
