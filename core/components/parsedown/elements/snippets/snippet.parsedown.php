@@ -40,7 +40,7 @@
  */
 $corePath = $modx->getOption('parsedown.core_path', null, $modx->getOption('core_path').'components/parsedown/');
 
-require $corePath.'model/vendor/erusev/parsedown/Parsedown.php';
+require_once $corePath.'model/vendor/erusev/parsedown/Parsedown.php';
 
 $parsedownmodx = $modx->getService('parsedownmodx', 'ParsedownMODx', $corePath.'model/parsedown/', $scriptProperties);
 if (!($parsedownmodx instanceof ParsedownMODx)) return '';
