@@ -1,6 +1,6 @@
 <?php
 /**
- * parse it
+ * Parsedown packaged for MODx
  *
  * @package parsedown
  * @subpackage build
