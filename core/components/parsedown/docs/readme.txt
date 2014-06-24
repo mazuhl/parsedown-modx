@@ -7,7 +7,7 @@ Since: 2014-06-21
 Author: Victor Häggqvist <victor@snilius.com>
 Source: https://github.com/victorhaggqvist/parsedown-modx
 License: MIT
-Creadits: Emanuil Rusev (https://github.com/erusev) Creator of Parsedown (https://github.com/erusev/parsedown)
+Credits: Emanuil Rusev (https://github.com/erusev) Creator of Parsedown (https://github.com/erusev/parsedown)
 
 This Extra provides a snippet [[Parsedown]] which is a wrapper for Parsedown (https://github.com/erusev/parsedown) packaged for easy use in MODx.
 
