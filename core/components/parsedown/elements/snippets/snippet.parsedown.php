@@ -37,6 +37,9 @@
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
+ *
+ * @package parsedown
+ * @subpackage core
  */
 $corePath = $modx->getOption('parsedown.core_path', null, $modx->getOption('core_path').'components/parsedown/');
 
