@@ -12,8 +12,9 @@ Assuming a directory structure like
           └── parsedown-modx <-- extra source dir 
 
 ##Add the settings
+
 key | value
--|-
+--- | -----
 parsedown.assets_url | /parsedown/assets/components/parsedown
 parsedown.core_path | ../parsedown-modx/core/components/parsedown/
 
