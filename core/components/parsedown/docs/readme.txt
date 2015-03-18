@@ -1,8 +1,8 @@
 --------------------
 Extra: Parsedown
 --------------------
-Version: 0.1.0
-Created: 2014-06-21
+Version: 1.1.0
+Created: 2015-03-18
 Since: 2014-06-21
 Author: Victor Häggqvist <victor@snilius.com>
 Source: https://github.com/victorhaggqvist/parsedown-modx

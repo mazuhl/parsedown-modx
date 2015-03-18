@@ -1,9 +1,12 @@
-#1.0.1
--Bundle actual changelog
+# 1.1.0
+- Parsedown 1.5.1
 
-#1.0.0
+# 1.0.1
+- Bundle actual changelog
+
+# 1.0.0
 - Parsedown 1.1.4
 
-#0.1.0-beta
+# 0.1.0-beta
 - Initial releasegi
 - Parsedown 1.0.1

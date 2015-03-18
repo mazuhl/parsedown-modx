@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-      "erusev/parsedown": "1.1.4"
+      "erusev/parsedown": "1.5.1"
     },
     "config": {
       "vendor-dir": "core/components/parsedown/model/vendor"

@@ -3,7 +3,7 @@
  * Parsedown
  *
  * @author Victor Häggqvist <victor@snilius.com>
- * @copyright Copyright 2014, Victor Häggqvist
+ * @copyright Copyright 2014-2015, Victor Häggqvist
  *
  * DESCRIPTION
  *
@@ -18,7 +18,7 @@
  *
  * The MIT License (MIT)
  *
- * Copyright (c) 2014 Victor Häggqvist
+ * Copyright (c) 2014-2015 Victor Häggqvist
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
